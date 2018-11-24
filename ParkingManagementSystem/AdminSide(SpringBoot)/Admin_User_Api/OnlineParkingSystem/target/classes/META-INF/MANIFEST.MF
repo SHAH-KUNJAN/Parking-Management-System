@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Parking
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mihir Soni
+Implementation-Vendor-Id: ParkingSystem
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/OnlineParkin
+ gSystem/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
